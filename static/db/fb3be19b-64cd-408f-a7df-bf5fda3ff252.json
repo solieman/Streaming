@@ -1,0 +1,17 @@
+{
+  "id": "fb3be19b-64cd-408f-a7df-bf5fda3ff252",
+  "dead": false,
+  "xPlayer": "bd5ff4c6-1a4a-415c-b364-ced09c1e8d40",
+  "oPlayer": "84f6d895-8c37-428a-9d16-3cbd359b74a5",
+  "board": [
+    1,
+    2,
+    4,
+    8,
+    16,
+    32,
+    64,
+    128,
+    256
+  ]
+}

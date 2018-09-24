@@ -1,0 +1,17 @@
+.game-div {
+  height: 20em;
+  width: 100%;
+  overflow: scroll !important;
+}
+
+.select-class {
+  width: 100%;
+}
+
+.room-btn {
+  margin-top: 0.1em;
+  width: 150px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
